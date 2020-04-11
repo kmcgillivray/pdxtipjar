@@ -27,7 +27,7 @@ function SEO({ description, title }) {
         sizes="16x16"
       />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:title" content="PDX Tip Jar" />
+      <meta name="twitter:title" content="Northeast WI Tip Jar" />
       <meta
         name="twitter:description"
         content="Share a small act of kindness with our
@@ -35,7 +35,7 @@ function SEO({ description, title }) {
       />
       <meta
         name="twitter:image"
-        content={`${withPrefix("/")}images/logo.png`}
+        content={`${withPrefix("/")}images/wisconsin.svg`}
       />
     </Helmet>
   );
