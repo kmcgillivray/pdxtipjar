@@ -12,7 +12,7 @@ import social4 from "../images/social-4.png";
 
 const Intro = () => (
   <div className="intro">
-    <h2>About Northeast Wisconsin Tip Jar</h2>
+    <h1>About Northeast Wisconsin Tip Jar</h1>
     <p>
       Northeast Wisconsin Tip Jar is an opportunity to share a small act of kindness with our Service Industry community during these uncertain times. With a government mandate in effect as of Tuesday, March 17th, all bars and restaurants in the state of Wisconsin are required to close for the next four weeks—with the exception of take-out and delivery operations—which has put many folks out of work.
     </p>
@@ -68,7 +68,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Home | Northeast WI Tip Jar" />
       <Intro />
       {Object.keys(randomPerson).length > 0 && (
         <RandomPerson

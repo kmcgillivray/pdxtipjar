@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `PDX Tip Jar`,
+    title: `Northeast WI Tip Jar`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@noahmanger`,
   },

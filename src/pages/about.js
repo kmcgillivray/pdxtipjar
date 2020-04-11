@@ -9,17 +9,17 @@ const AboutPage = () => (
     <h1>About</h1>
     <p>
       With a government mandate in effect as of Tuesday, March 17th, all bars
-      &amp; restaurants in the state of Wisconsin are required to close for the
+      & restaurants in the state of Wisconsin are required to close for the
       next four weeks, with the exception of take-out and delivery operations.
       We don't truly know how long this will last &amp; what the lasting
       economic impact will be for service industry workers. We're following the
-      examples of Portland, DC, Pittsburgh, &amp; Indianapolis by starting a Virtual Tip
+      examples of Portland, DC, Pittsburgh, & Indianapolis by starting a Virtual Tip
       Jar.
     </p>
     <p>
       If you'd like to support our Northeast Wisconsin service industry workers during
-      these uncertain--and very stressful--times, We're compiling a list of cooks,
-      bartenders, servers, baristas, dishwashers, &amp; other essential folks
+      these uncertain—and very stressful—times, We're compiling a list of cooks,
+      bartenders, servers, baristas, dishwashers, & other essential folks
       who keep our community's food &amp; beverage culture thriving. A small
       contribution can help these folks stay afloat financially while we wait to
       see what develops in the coming weeks.
