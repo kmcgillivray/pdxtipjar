@@ -1,6 +1,6 @@
-This is a simple [Gatsby](https://www.gatsbyjs.org/) site that pulls data from a Google Sheet. We encourage anyone who wants to set up their own site to clone this repo. We also welcome contributors to the pdxtipjar.com site. If you have any bugs or feature requests, go ahead and file an issue.
+This is a [Gatsby](https://www.gatsbyjs.org/) site that pulls data from a Google Sheet. Forked from [PDX Tip Jar](https://github.com/noahmanger/pdxtipjar).
 
-PDX Tip Jar is an all volunteer effort by [Jacqi Ko](https://jaxko.com) and [Noah Manger](https://github.com/noahmanger). If you haven't already, we encourage you to go tip someone in need!
+If you haven't already, we encourage you to go tip someone in need!
 
 ## Developing
 
@@ -26,5 +26,4 @@ We're working on making this easier, but for now, if you'd like to duplicate thi
 3. Embed your Google Sheet on the signup form page
 4. Set your Google Sheet to publish to a CSV
 5. Insert the URL [to the CSV here](https://github.com/noahmanger/pdxtipjar/blob/master/src/components/constants.js#L2)
-6. Deploy (PDX Tip Jar currently uses [Netlify](https://netlify.com)
-
+6. Deploy (Northeast WI Tip Jar currently uses [Netlify](https://netlify.com))
