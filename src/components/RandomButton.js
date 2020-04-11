@@ -20,7 +20,7 @@ const RandomButton = ({ text, handleClick }) => {
 
         getSheets()
           .then(response => {
-            const rows = response.slice(1); // Skip header row
+            const rows = response
             const randomInt = getRandomInt(rows.length);
             return handleClick(rows[randomInt]);
           })
