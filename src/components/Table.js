@@ -116,6 +116,10 @@ const Table = ({ data }) => {
       )
     : rows;
 
+  if (data.length === 0) {
+    return <p>No one looking for tips currently. <a href="/signup">Sign up here.</a></p>;
+  }
+
   if (data.length > 0 && rows.length === 0) {
     setColumns(generateColumns(data[0], setSelectedPerson));
     setRows(data.map((r, i) => ({ ...{ id: i }, ...r })));
